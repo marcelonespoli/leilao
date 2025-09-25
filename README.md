@@ -4,7 +4,6 @@ Projeto do laboratório **"Concorrência com Golang - Leilão"**
 
 ### Contexto:
 - A rotina de criação de leilão e lances já está implementada.
-- O [projeto original](https://github.com/devfullcycle/labs-auction-goexpert) necessita de melhoria para incluir essa funcionalidade.
 - A validação de leilão fechado ou aberto durante a criação de novos lances (bids) já está implementada.
 
 ---
