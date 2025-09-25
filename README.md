@@ -1,5 +1,5 @@
 
-Projeto do laboratório **"Concorrência com Golang - Leilão"** 
+Projeto - Leilão"** 
 ---
 
 ### Contexto:
