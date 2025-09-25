@@ -1,5 +1,5 @@
 
-Projeto - Leilão"** 
+Projeto - Leilão
 ---
 
 ### Contexto:
